@@ -1,1 +1,17 @@
-/*  your css code here. If applicable */
+
+body{
+	background-color:#f8f8f8;
+}
+h1{
+	text-align:center;
+}
+.book-library{
+	background-color:#ffffff;
+	height:10px;
+}
+.book p:first-child{
+	color:#777777;
+}
+.book p:last-child{
+	background-color:#2ecc71;
+}
